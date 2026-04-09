@@ -53,15 +53,14 @@
 
 <br>
 
-## 4. 📊 결과물 예시 (Output)
+## 4. 📊 결과물 
 
 사용자가 조건을 입력하고 `[✨ 내 여행 일정 & 예산 만들기]` 버튼을 클릭하면 다음과 같은 결과가 마크다운(Markdown) 형태로 출력됩니다.
 
-1. **여행 팁**: 해당 월의 날씨, 옷차림, 현지 주의사항
-2. **숙소 추천**: 인원수와 동행인 특성에 맞는 구체적인 동네 및 객실 형태 추천
-3. **일자별 상세 일정**: 오전/오후/저녁으로 나뉜 최적의 동선 및 로컬 맛집 추천
-4. **화장실 꿀팁**: 동선 인근의 스타벅스 등 쾌적한 무료 화장실 정보
-5. **예상 경비 표**: (N명 기준) 항목별 총 예상 예산표 (KRW 환산)
+<img width="1413" height="786" alt="image" src="https://github.com/user-attachments/assets/469eee72-5f3f-4368-aca6-0335dcbc07d3" />
+<img width="1408" height="817" alt="image" src="https://github.com/user-attachments/assets/61cdc96d-41f0-4158-8cae-248efb05bc58" />
+<img width="1403" height="797" alt="image" src="https://github.com/user-attachments/assets/8ee79c2d-82eb-48e1-a158-01f8240b3c03" />
+
 
 <br>
 
