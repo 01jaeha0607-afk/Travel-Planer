@@ -8,8 +8,8 @@
 
 <br>
 
-*(💡 팁: 여기에 Streamlit으로 구동된 웹 화면 캡처 이미지나 작동 움짤을 넣어주세요!)*
-`![여행 플래너 시연 화면](이미지링크)`
+
+
 <img width="1478" height="794" alt="image" src="https://github.com/user-attachments/assets/a906bf78-a34a-493c-9928-87d3eaf09a9d" />
 
 ---
