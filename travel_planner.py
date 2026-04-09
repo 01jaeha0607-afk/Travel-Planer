@@ -2,7 +2,7 @@ import streamlit as st
 import google.generativeai as genai
 
 # --- API 키 설정 본인의 키를 아래에 붙여넣으세요!) ---
-API_KEY = "API_KEY입력" 
+API_KEY = "여기에_발급받은_API_키를_넣으세요입력" 
 
 genai.configure(api_key=API_KEY)
 model = genai.GenerativeModel('gemini-2.5-flash') 
