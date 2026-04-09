@@ -87,6 +87,7 @@
 <br>
 
 ## 📥 실행 방법
+<img width="671" height="139" alt="image" src="https://github.com/user-attachments/assets/7bd78ad6-9877-4ac6-bbd2-666e710d0bc7" />
 
 ### ⚙️ 환경 설정 및 실행
 ```bash
@@ -95,7 +96,6 @@ pip install streamlit google-generativeai
 
 # 2. 소스 코드 다운로드 (또는 git clone)
 # 파일 내 API_KEY = "여기에_발급받은_API_키를_넣으세요" 부분을 본인의 키로 변경해야 합니다.
-<img width="671" height="139" alt="image" src="https://github.com/user-attachments/assets/d605b83b-5268-4621-a3fc-44ad6af5aeda" />
 
 
 # 3. 프로그램 실행
